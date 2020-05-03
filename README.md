@@ -1,2 +1,2 @@
 # QuikBuyAPI
-REST API for mu QuikBuy React E-commerce site
+REST API for my QuikBuy React E-commerce site

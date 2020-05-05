@@ -1,0 +1,22 @@
+{
+  "name": "quikbuyapi",
+  "version": "1.0.0",
+  "description": "API for QuikBuy App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajiva-D/QuikBuyAPI.git"
+  },
+  "author": "David Aji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ajiva-D/QuikBuyAPI/issues"
+  },
+  "homepage": "https://github.com/Ajiva-D/QuikBuyAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

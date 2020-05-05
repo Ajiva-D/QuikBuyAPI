@@ -4,7 +4,8 @@
   "description": "API for QuikBuy App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon --exec npm run restart"
   },
   "repository": {
     "type": "git",

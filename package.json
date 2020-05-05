@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Ajiva-D/QuikBuyAPI#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "chalk": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
   }
 }

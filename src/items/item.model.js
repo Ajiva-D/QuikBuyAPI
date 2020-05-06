@@ -17,5 +17,8 @@ const itemSchema = new mongoose.Schema(
 		rating:Number,
 		description:String
 
-	}
+	},
+	{ timestamps: true }
+	
 )
+export const Item = mongoose.model('item', itemSchema)
